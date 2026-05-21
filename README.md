@@ -50,9 +50,11 @@ endmodule
 ```
 
 **Output:**
+
 <img width="1904" height="978" alt="image" src="https://github.com/user-attachments/assets/e00184bc-6d49-41a4-bbb0-5a8e8c44745f" />
 
 **RTL**
+
 <img width="445" height="433" alt="Screenshot 2026-05-21 131822" src="https://github.com/user-attachments/assets/50594c98-ca95-4d7f-8a2e-b317368b6282" />
 
 
