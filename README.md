@@ -14,10 +14,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
-
-**Logic Diagram**
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -49,7 +45,7 @@ assign f2 = ((~y & z) | (w & y) | (x & y));
 endmodule
 ```
 
-**Output:**
+**Timing diagram**
 
 <img width="1904" height="978" alt="image" src="https://github.com/user-attachments/assets/e00184bc-6d49-41a4-bbb0-5a8e8c44745f" />
 
